@@ -1,0 +1,6 @@
+apple, manzana
+banana, plátano
+orange, naranja
+grape, uva
+blue, azul
+red, rojo
